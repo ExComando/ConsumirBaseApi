@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\App_Empresa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App_Empresa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\App_Empresa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\App_Empresa\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\App_Empresa\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\App_Empresa\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\App_Empresa\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.App_Empresa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.App_Empresa.props",
+      "PackagePath": "build\\App_Empresa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.App_Empresa.props",
+      "PackagePath": "buildMultiTargeting\\App_Empresa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.App_Empresa.props",
+      "PackagePath": "buildTransitive\\App_Empresa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
